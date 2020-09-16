@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@alheimsins/b5-result-text": "Abler-Recrutamento-Digital/genty-b5-result-text#latest"
   }
