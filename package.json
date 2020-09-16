@@ -1,0 +1,9 @@
+{
+  "name": "b5-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@alheimsins/b5-result-text": "Abler-Recrutamento-Digital/genty-b5-result-text#latest"
+  }
+}
