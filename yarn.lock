@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"@alheimsins/b5-result-text@Abler-Recrutamento-Digital/genty-b5-result-text#latest":
-  version "3.0.7"
-  resolved "https://codeload.github.com/Abler-Recrutamento-Digital/genty-b5-result-text/tar.gz/2fa8d6d4046e9fc301add9717ae368d725a12d3d"
+"@alheimsins/b5-result-text@Abler-Recrutamento-Digital/genty-b5-result-text#4.0.0":
+  version "4.1.0"
+  resolved "https://codeload.github.com/Abler-Recrutamento-Digital/genty-b5-result-text/tar.gz/7d1bdba0d47b7823db5fb4078cffdd2210a0757d"

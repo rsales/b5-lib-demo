@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@alheimsins/b5-result-text": "Abler-Recrutamento-Digital/genty-b5-result-text#latest"
+    "@alheimsins/b5-result-text": "Abler-Recrutamento-Digital/genty-b5-result-text#4.0.0"
   }
 }
